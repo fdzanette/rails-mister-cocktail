@@ -1,0 +1,21 @@
+.back-btn {
+  margin-top: 5px;
+}
+
+.delete-btn {
+  font-size: 16px;
+  margin-bottom: 5px;
+  background-color: red;
+  text-decoration: none;
+  &:hover {
+    opacity: 0.8;
+    text-decoration: none;
+  }
+}
+
+.delete-btn a {
+  color: white;
+}
+.delete-btn a:hover {
+    text-decoration: none;
+  }
